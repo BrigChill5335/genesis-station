@@ -6,15 +6,15 @@ concurrency:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 10 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-#    - name: Install dependencies
-#      run: sudo apt-get install -y python3-paramiko python3-lxml
+    - name: Install dependencies
+      run: sudo apt-get install -y python3-paramiko python3-lxml
 
     - uses: actions/checkout@v3.6.0
       with:
@@ -42,8 +42,6 @@ jobs:
       run: dotnet run --project Content.Packaging client --no-wipe-release
 
     - name: Update Build Info
-      env:
-        FORK_ID: ${{ vars.FORK_ID }}
       run: Tools/gen_build_info.py
 
     - name: Shuffle files around
