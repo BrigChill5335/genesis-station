@@ -108,4 +108,3 @@ public sealed class PresetIdCardSystem : EntitySystem
         return string.Empty;
     }
     // Genesis-End
-}
