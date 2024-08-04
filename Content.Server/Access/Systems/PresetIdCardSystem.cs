@@ -87,7 +87,6 @@ public sealed class PresetIdCardSystem : EntitySystem
         if (_prototypeManager.TryIndex(job.Icon, out var jobIcon))
             _cardSystem.TryChangeJobIcon(uid, jobIcon);
     }
-}
 
     // Genesis-Start
     public static string GetJobColor(IPrototypeManager prototypeManager, IPrototype job)
@@ -108,3 +107,4 @@ public sealed class PresetIdCardSystem : EntitySystem
         return string.Empty;
     }
     // Genesis-End
+}
