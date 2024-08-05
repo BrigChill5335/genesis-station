@@ -5,7 +5,7 @@
   description: "A basic hybrid energy gun with two settings: disable and kill."
   components:
   - type: Sprite
-    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/energygun.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Battery/energygun.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -16,7 +16,7 @@
       map: ["enum.GunVisualLayers.MagUnshaded"]
       shader: unshaded
   - type: Clothing
-    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/energygun.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Battery/energygun.rsi
   - type: Gun
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser.ogg
@@ -58,7 +58,7 @@
   description: This is an expensive, modern recreation of an antique laser gun. This gun has several unique firemodes, but lacks the ability to recharge over time.
   components:
   - type: Sprite
-    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/multiphase_energygun.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Battery/multiphase_energygun.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -69,7 +69,7 @@
       map: ["enum.GunVisualLayers.MagUnshaded"]
       shader: unshaded
   - type: Clothing
-    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/multiphase_energygun.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Battery/multiphase_energygun.rsi
   - type: Gun
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser.ogg
@@ -123,7 +123,7 @@
   description: A light version of the Energy gun with a smaller capacity.
   components:
   - type: Sprite
-    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/mini_energygun.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Battery/mini_energygun.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -131,7 +131,7 @@
       shader: unshaded
       map: [ "Firemode" ]
   - type: Clothing
-    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/mini_energygun.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Battery/mini_energygun.rsi
   - type: Gun
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser.ogg
@@ -173,7 +173,7 @@
   description: A military grade sidearm, used by many militia forces throughout the local sector.
   components:
   - type: Sprite
-    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/energygun_pistol.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Battery/energygun_pistol.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -184,7 +184,7 @@
       map: ["enum.GunVisualLayers.MagUnshaded"]
       shader: unshaded
   - type: Clothing
-    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/multiphase_energygun.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Battery/multiphase_energygun.rsi
   - type: Gun
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser.ogg
@@ -230,7 +230,7 @@
   description: "A 20 round semi-automatic laser carbine."
   components:
   - type: Sprite
-    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/energygun_carbine.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Battery/energygun_carbine.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -238,7 +238,7 @@
       map: ["enum.GunVisualLayers.MagUnshaded"]
       shader: unshaded
   - type: Clothing
-    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/energygun_carbine.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Battery/energygun_carbine.rsi
   - type: Gun
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser.ogg
@@ -268,7 +268,7 @@
   description: ""
   components:
   - type: Sprite
-    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/ion_rifle.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Battery/ion_rifle.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
