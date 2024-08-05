@@ -5,7 +5,6 @@
   description: A pressure resistant and fireproof hood worn by special cleanup units.
   components:
   - type: Sprite
-    netsync: false
     sprite: Corvax/Clothing/Head/Hardsuits/cburncommander.rsi
     layers:
     - state: icon
