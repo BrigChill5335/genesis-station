@@ -15,8 +15,8 @@
         volume: -5
   - type: ItemToggleSize
     activatedSize: Normal
-  - type: ItemToggleDisarmMalus
-    activatedDisarmMalus: 0.6
+  - type: DisarmMalus
+    malus: 0.225
   - type: Sprite
     sprite: Genesis/Objects/Weapons/Melee/telescopic.rsi
     layers:
