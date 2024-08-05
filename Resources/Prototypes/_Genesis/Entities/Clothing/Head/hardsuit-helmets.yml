@@ -217,9 +217,9 @@
   description: An elite version of the blood-red hardsuit's helmet, with improved armor and fireproofing. Property of Gorlex Marauders.
   components:
   - type: Sprite
-    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/syndieelite.rsi
+    sprite: Genesis/Clothing/Head/Hardsuits/NukeOps/Corvax/syndieelite.rsi
   - type: Clothing
-    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/syndieelite.rsi
+    sprite: Genesis/Clothing/Head/Hardsuits/NukeOps/Corvax/syndieelite.rsi
   - type: PointLight
     color: red
   - type: PressureProtection
