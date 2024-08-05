@@ -1,0 +1,15 @@
+- type: department
+  id: CentralCommand
+  description: department-CentralCommand-description
+  color: "#13db0f"
+  roles:
+  - CentralCommandOfficial
+
+- type: department
+  id: CentComSpecialists
+  description: department-CentСom-description
+  color: "#35a41e"
+  roles:
+  - CentComConsultant
+  - BlueShield
+

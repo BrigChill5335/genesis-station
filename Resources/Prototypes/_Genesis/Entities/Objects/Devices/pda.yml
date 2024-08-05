@@ -1,0 +1,48 @@
+- type: entity
+  parent: BasePDA
+  id: BlueShieldPDA
+  name: captain PDA
+  description: Surprisingly no different from your PDA.
+  components:
+  - type: Sprite
+    sprite: Genesis/Objects/Devices/pda.rsi
+  - type: Pda
+    id: BlueShieldIDCard
+    state: pda-blueshield
+    penSlot:
+      startingItem: PenCap
+      priority: -1
+      whitelist:
+        tags:
+        - Write
+  - type: PdaBorderColor
+    borderColor: "#1E1E32"
+    accentHColor: "#2851A4"
+  - type: Icon
+    sprite: Genesis/Objects/Devices/pda.rsi
+    state: pda-blueshield
+
+- type: entity
+  parent: BasePDA
+  id: CentcomConsultantPDA
+  name: CentCom consultant PDA
+  description: Light green sign of walking bureaucracy.
+  components:
+  - type: Sprite
+    sprite: Genesis/Objects/Devices/pda.rsi
+  - type: Pda
+    id: CentcomConsultantIDCard
+    state: pda-centcom
+    penSlot:
+      startingItem: PenCentcom
+      priority: -1
+      whitelist:
+        tags:
+        - Write
+  - type: PdaBorderColor
+    borderColor: "#15b115"
+    accentHColor: "#dfc910"
+    accentVColor: "#dfc910"
+  - type: Icon
+    sprite: Genesis/Objects/Devices/pda.rsi
+    state: pda-centcom

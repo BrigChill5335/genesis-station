@@ -1,0 +1,69 @@
+# Command
+- type: roleLoadout
+  id: JobBlueShield
+  groups:
+  - BlueShieldHead
+  - BlueShieldNeck
+  - BlueShieldJumpsuit
+  - BlueShieldBackpack
+  - BlueShieldOuterClothing
+  - BlueShieldBelt
+  - BlueShieldPocket
+  - BlueShieldPocket2
+  - Trinkets
+
+# CentCom
+- type: roleLoadout
+  id: JobCentComConsultant
+  groups:
+  - ConsultantHead
+  - ConsultantNeck
+  - ConsultantJumpsuit
+  - CentComBackpack
+  - ConsultantOuterClothing
+  - Glasses
+  - Trinkets
+
+# Security
+- type: roleLoadout
+  id: JobBrigmedic
+  groups:
+  - BrigmedicHead
+  - BrigmedicMask
+  - BrigmedicJumpsuit
+  - MedicalGloves
+  - BrigmedicBackpack
+  - BrigmedicOuterClothing
+  - SecurityShoes
+  - Trinkets
+
+# NukeOps
+- type: roleLoadout
+  id: Nukeops
+  groups:
+  - NukeOpsJumpsuit
+  - NukeOpsBackpack
+  - NukeOpsOuterClothing
+  - NukeOpsBelt
+  - NukeOpsPDA
+  - Trinkets
+
+- type: roleLoadout
+  id: NukeopsMedic
+  groups:
+  - NukeOpsJumpsuit
+  - NukeOpsBackpack
+  - NukeOpsMedicOuterClothing
+  - NukeOpsMedicBelt
+  - NukeOpsPDA
+  - Trinkets
+
+- type: roleLoadout
+  id: NukeopsCommander
+  groups:
+  - NukeOpsJumpsuit
+  - NukeOpsBackpack
+  - NukeOpsCommanderOuterClothing
+  - NukeOpsBelt
+  - NukeOpsPDA
+  - Trinkets

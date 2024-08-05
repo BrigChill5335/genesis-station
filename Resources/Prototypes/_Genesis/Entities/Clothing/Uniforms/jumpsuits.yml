@@ -1,0 +1,54 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformHECU
+  name: HECU uniform
+  description: The HECU jumpsuit is used to protect against foreign environmental factors (besides, real American patriots like to wear it)
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/hecu.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/hecu.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitBlueShield
+  name: blueshield officer's jumpsuit
+  description: It's a blue jumpsuit with some gold markings denoting the rank of "Captain".
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/blueshield.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/blueshield.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitBlueShieldTurtleneck
+  name: blueshield officer's turtleneck jumpsuit
+  description: It's a blue jumpsuit with some gold markings denoting the rank of "Captain".
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/blueshield_turtleneck.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/blueshield_turtleneck.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitCentcomConsultant
+  name: CentCom consultant jumpsuit
+  description: "A green jumpsuit with gold accents, and wide shoulder pads, for those who like to show off their real power."
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/centcom_consultant.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/centcom_consultant.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitCentcomConsultantFormal
+  name: CentCom consultant's formal jumpsuit
+  description: "The formal jumpsuit of the most important representative on the station. It clearly suits you, sir."
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/centcom_consultant_formal.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/centcom_consultant_formal.rsi

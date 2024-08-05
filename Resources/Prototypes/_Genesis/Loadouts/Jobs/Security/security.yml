@@ -1,0 +1,57 @@
+# Pocket 2
+- type: loadout
+  id: MagazinePistol
+  equipment: MagazinePistol
+
+- type: startingGear
+  id: MagazinePistol
+  equipment:
+    pocket2: MagazinePistol
+
+- type: loadout
+  id: MagazinePistolHighCapacity
+  equipment: MagazinePistolHighCapacity
+
+- type: startingGear
+  id: MagazinePistolHighCapacity
+  equipment:
+    pocket2: MagazinePistolHighCapacity
+
+- type: loadout
+  id: SpeedLoaderMagnum
+  equipment: SpeedLoaderMagnum
+
+- type: startingGear
+  id: SpeedLoaderMagnum
+  equipment:
+    pocket2: SpeedLoaderMagnum
+
+# OuterClothing
+- type: loadout
+  id: ArmorVestArmorSec
+  equipment: ArmorVestArmorSec
+
+- type: startingGear
+  id: ArmorVestArmorSec
+  equipment:
+    outerClothing: ClothingOuterVestArmorSec
+
+# Uniform
+- type: loadout
+  id: HECUUniform
+  equipment: HECUUniform
+
+- type: startingGear
+  id: HECUUniform
+  equipment:
+    jumpsuit: ClothingUniformHECU
+
+# Mask
+- type: loadout
+  id: SecurityMask
+  equipment: SecurityMask
+
+- type: startingGear
+  id: SecurityMask
+  equipment:
+    mask: ClothingMaskGasSecurity

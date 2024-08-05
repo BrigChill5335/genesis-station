@@ -1,0 +1,25 @@
+- type: entity
+  id: SpawnPointBlueShield
+  parent: SpawnPointJobBase
+  name: blueshield officer
+  components:
+  - type: SpawnPoint
+    job_id: BlueShield
+  - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
+    layers:
+      - state: green
+      - state: blueshield
+
+- type: entity
+  id: SpawnPointCentComConsultant
+  parent: SpawnPointJobBase
+  name: centcom consultant
+  components:
+  - type: SpawnPoint
+    job_id: CentComConsultant
+  - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
+    layers:
+      - state: green
+      - state: consultant

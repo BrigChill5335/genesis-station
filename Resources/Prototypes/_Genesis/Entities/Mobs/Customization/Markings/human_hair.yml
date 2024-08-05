@@ -1,0 +1,47 @@
+- type: marking
+  id: HumanHairlongBedheadD
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: Genesis/Mobs/Customization/human_hair.rsi
+      state: long_bedhead
+
+- type: marking
+  id: HumanHairRick
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: Genesis/Mobs/Customization/human_hair.rsi
+      state: rick
+
+- type: marking
+  id: HumanHairMorty
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: Genesis/Mobs/Customization/human_hair.rsi
+      state: morty
+
+- type: marking
+  id: HumanHairClassicMessy
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: Genesis/Mobs/Customization/deb_human_hair.rsi
+      state: classicmessy
+
+- type: marking
+  id: HumanHairClassicSpiky
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: Genesis/Mobs/Customization/deb_human_hair.rsi
+      state: classicspiky
+
+- type: marking
+  id: HumanHairModernClassic
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: Genesis/Mobs/Customization/deb_human_hair.rsi
+      state: modern

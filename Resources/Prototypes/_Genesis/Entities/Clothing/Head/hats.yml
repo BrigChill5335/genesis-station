@@ -1,0 +1,58 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBlueShieldBeret
+  name: blueshield beret
+  description: Beret for a officer blueshield.
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Head/Hats/blueshield.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Head/Hats/blueshield.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatCentcomConsultantCap
+  name: Centcom сonsultant сap
+  description: "An expensive cap, with a bright gold emblem on your forehead, saying that you are the inspector of order at this station."
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Head/Hats/centcom_consultant.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Head/Hats/centcom_consultant.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretPurple
+  name: purple beret
+  description: It's just purple beret.
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Head/Hats/beret_rnd.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Head/Hats/beret_rnd.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretEngineeringAlt
+  name: engineering beret
+  description: A beret with the engineering insignia emblazoned on it. For engineers that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hats/beret_engineering.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hats/beret_engineering.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon
