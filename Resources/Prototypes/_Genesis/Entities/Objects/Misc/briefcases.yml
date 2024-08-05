@@ -32,9 +32,9 @@
   description: A box containing a mystery minifigure. The side of the box depicts a few blacked-out 'rare' figures, including one with a large, non-humanoid shilouette.
   components:
   - type: Item
-    sprite: ERTAcademy/Objects/Storage/Briefcases/blueshield_case.rsi
+    sprite: Genesis/Objects/Storage/Briefcases/blueshield_case.rsi
   - type: Sprite
-    sprite: ERTAcademy/Objects/Storage/Briefcases/blueshield_case.rsi
+    sprite: Genesis/Objects/Storage/Briefcases/blueshield_case.rsi
     layers:
       - state: icon
   - type: SpawnItemsOnUse
