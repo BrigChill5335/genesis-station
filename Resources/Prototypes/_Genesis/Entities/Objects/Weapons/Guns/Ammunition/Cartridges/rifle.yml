@@ -70,7 +70,7 @@
     deleteOnSpawn: true
   - type: Sprite
     noRot: false
-    sprite: ERTAcademy/Objects/Weapons/Guns/Ammunition/Casings/light_rifle.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Ammunition/Casings/light_rifle.rsi
     layers:
     - state: base
       map: ["enum.AmmoVisualLayers.Base"]
@@ -121,7 +121,7 @@
     containers:
       ballistic-ammo: !type:Container
   - type: Sprite
-    sprite: ERTAcademy/Objects/Weapons/Guns/Ammunition/Magazine/CaselessRifle/universal_rifle_mag.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Ammunition/Magazine/CaselessRifle/universal_rifle_mag.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -172,7 +172,7 @@
   - type: Item
     size: Small
   - type: Sprite
-    sprite: ERTAcademy/Objects/Weapons/Guns/Ammunition/Magazine/CaselessRifle/universal_rifle_mag_short.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Ammunition/Magazine/CaselessRifle/universal_rifle_mag_short.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
