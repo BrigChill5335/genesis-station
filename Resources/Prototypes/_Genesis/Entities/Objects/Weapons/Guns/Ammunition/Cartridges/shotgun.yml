@@ -10,7 +10,7 @@
     proto: ShellShotgun
     capacity: 5
   - type: Sprite
-    sprite: ERTAcademy/Objects/Weapons/Guns/Ammunition/Magazine/Shotgun/saiga.rsi
+    sprite: Genesis/Objects/Weapons/Guns/Ammunition/Magazine/Shotgun/saiga.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
