@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": "Debiloid3000",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "blueshield"
+    },
+    {
+      "name": "blueshield_door"
+    },
+    {
+      "name": "blueshield_open"
+    },
+    {
+      "name": "blueshield_wardrobe_door"
+    },
+    {
+      "name": "cc"
+    },
+    {
+      "name": "cc_door"
+    },
+    {
+      "name": "cc_open"
+    },
+    {
+      "name": "ccc"
+    },
+    {
+      "name": "ccc_door"
+    },
+    {
+      "name": "ccc_open"
+    },
+    {
+      "name": "generic"
+    },
+    {
+      "name": "generic_door"
+    },
+    {
+      "name": "generic_open"
+    },
+    {
+      "name": "locked"
+    },
+    {
+      "name": "unlocked"
+    },
+    {
+      "name": "welded"
+    }
+  ]
+}
