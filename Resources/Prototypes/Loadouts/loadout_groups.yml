@@ -636,6 +636,7 @@
   minLimit: 0
   loadouts:
   - ChiefEngineerCloak
+  - ChiefEngineerCloakAlt
   - ChiefEngineerMantle
 
 - type: loadoutGroup
@@ -755,6 +756,7 @@
   minLimit: 0
   loadouts:
   - ResearchDirectorBeret
+  - ResearchDirectorBeretAlt
 
 - type: loadoutGroup
   id: ResearchDirectorNeck
@@ -763,6 +765,7 @@
   loadouts:
   - ResearchDirectorMantle
   - ResearchDirectorCloak
+  - ResearchDirectorCloakAlt
 
 - type: loadoutGroup
   id: ResearchDirectorJumpsuit
@@ -794,6 +797,7 @@
   - RoboticistCap
   - SkullBandana
   - ScientificBeret
+  - ScientificBeretAlt
 
 - type: loadoutGroup
   id: ScientistNeck

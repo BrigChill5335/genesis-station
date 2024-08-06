@@ -5,9 +5,9 @@
   description: Beret for a officer blueshield.
   components:
   - type: Sprite
-    sprite: Genesis/Clothing/Head/Hats/blueshield.rsi
+    sprite: Genesis/Clothing/Head/Hats/beret_blueshield.rsi
   - type: Clothing
-    sprite: Genesis/Clothing/Head/Hats/blueshield.rsi
+    sprite: Genesis/Clothing/Head/Hats/beret_blueshield.rsi
   - type: Tag
     tags:
     - ClothMade

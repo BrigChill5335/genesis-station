@@ -7,8 +7,3 @@
 - type: playTimeTracker
   id: JobBrigmedic
 
-- type: playTimeTracker
-  id: JobHeadOfSecurityAcademy
-
-- type: playTimeTracker
-  id: JobRecruit

@@ -43,6 +43,7 @@
   name: loadout-group-head
   minLimit: 0
   loadouts:
+  - SecurityHelmet
   - BlueShieldHead
 
 - type: loadoutGroup
@@ -74,7 +75,6 @@
   name: loadout-group-outerclothing
   loadouts:
   - BlueShieldOuterClothing
-  - BlueShieldJacket
 
 - type: loadoutGroup
   id: BlueShieldBelt

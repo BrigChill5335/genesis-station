@@ -38,6 +38,7 @@
   color: "#334E6D"
   roles:
   - Captain
+  - IAA # Corvax-IAA
   - CentralCommandOfficial
   - ChiefEngineer
   - ChiefMedicalOfficer
@@ -78,8 +79,10 @@
   roles:
   - HeadOfSecurity
   - SecurityCadet
+  - Pilot # Corvax-Pilot
   - SecurityOfficer
   - Detective
+  - Brigmedic # Genesis-Station
   - Warden
 
 - type: department
@@ -101,4 +104,5 @@
   - Reporter
   - Zookeeper
   - Psychologist
+  - Pilot # Corvax-Pilot
   primary: false
