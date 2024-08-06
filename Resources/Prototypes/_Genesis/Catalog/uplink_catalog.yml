@@ -2,7 +2,7 @@
   id: UplinkEswords
   name: uplink-eswords-name
   description: uplink-eswords-desc
-  icon: { sprite: /Textures/ERTAcademy/Objects/Weapons/Melee/e_sword_ebent_double.rsi, state: icon }
+  icon: { sprite: /Textures/Genesis/Objects/Weapons/Melee/e_sword_ebent_double.rsi, state: icon }
   productEntity: EnergySwords
   cost:
     Telecrystal: 20
@@ -24,7 +24,7 @@
   id: UplinkKR51Bundle
   name: uplink-bundle-kr51
   description: uplink-bundle-kr51-desc
-  icon: { sprite: /Textures/ERTAcademy/Objects/Weapons/Guns/Rifles/kr51.rsi, state: icon }
+  icon: { sprite: /Textures/Genesis/Objects/Weapons/Guns/Rifles/kr51.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateBundleKR51
   cost:
     Telecrystal: 17

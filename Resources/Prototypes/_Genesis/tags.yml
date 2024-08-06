@@ -1,74 +1,14 @@
 ﻿- type: Tag
-  id: ForensicBeltEquip
+  id: MagazineUniversalShort
 
 - type: Tag
-  id: MagazineUniversalCaselessRifle
+  id: MagazineUniversal
 
 - type: Tag
-  id: Rapier
+  id: MagazineShotgunSaiga
 
 - type: Tag
-  id: CartridgeRifleLight762
+  id: CartridgeUniversal
 
 - type: Tag
-  id: MagazineRifleLightSniper
-
-- type: Tag
-  id: MagazineAntiMaterielRifle
-
-- type: Tag
-  id: MagazineRifleRocket20
-
-- type: Tag
-  id: CartridgeRifleRocket20
-
-- type: Tag
-  id: CartridgeRifle762
-
-- type: Tag
-  id: MagazineHeavyMachineGunDrum
-
-- type: Tag
-  id: MagazineLightMachineGunDrum
-
-- type: Tag
-  id: PowerpackFlame
-
-- type: Tag
-  id: TankFlamethrower
-
-- type: Tag
-  id: FireThrowerBall
-
-- type: Tag
-  id: PowerpackRifle
-
-- type: Tag
-  id: MagazineMagnumPistol
-
-- type: Tag
-  id: MagazinePistolBoxSubMachineGun
-
-- type: Tag
-  id: MagazinePistolDrumSubMachineGun
-
-- type: Tag
-  id: CartridgeRifle62
-
-- type: Tag
-  id: MagazineHeavyRifle62
-
-- type: Tag
-  id: MagazinePistolTopSubMachineGun
-
-- type: Tag
-  id: SwordSquadRO
-
-- type: Tag
-  id: NoSpinOnThrow
-
-- type: Tag
-  id: CartridgeAntitank
-
-- type: Tag
-  id: FullBodyOuter
+  id: SpeedLoaderUniversal

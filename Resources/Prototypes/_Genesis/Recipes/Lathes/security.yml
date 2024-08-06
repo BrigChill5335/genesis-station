@@ -47,9 +47,3 @@
   materials:
     Steel: 450
 
-- type: latheRecipe
-  id: MagazineLightMachineGunDrum
-  result: MagazineLightMachineGunDrum
-  completetime: 5
-  materials:
-    Steel: 500

@@ -14,9 +14,10 @@
   - type: Clothing
     sprite: Genesis/Objects/Weapons/Guns/Pistols/m1911.rsi
   - type: Gun
-    fireRate: 5
+    fireRate: 7
     availableModes:
     - SemiAuto
+    - FullAuto
     soundGunshot:
       path: /Audio/Genesis/Weapons/Guns/GunShots/m1911.ogg
 
