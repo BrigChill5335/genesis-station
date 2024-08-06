@@ -546,7 +546,6 @@
   id: HumanHairWife
   bodyPart: Hair
   markingCategory: Hair
-  sponsorOnly: true # Corvax-Sponsors
   sprites:
     - sprite: Corvax/Mobs/Customization/human_hair.rsi
       state: wife

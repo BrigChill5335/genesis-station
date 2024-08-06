@@ -1,15 +1,33 @@
 - type: lobbyBackground
   id: pivo
-  background: /Textures/Backmen/LobbyScreens/pivo.png
+  background: /Textures/Genesis/LobbyScreens/pivo.png
 
 - type: lobbyBackground
   id: twix
-  background: /Textures/Backmen/LobbyScreens/twix.png
+  background: /Textures/Genesis/LobbyScreens/twix.png
 
 - type: lobbyBackground
   id: capoleon
-  background: /Textures/Backmen/LobbyScreens/capoleon.png
+  background: /Textures/Genesis/LobbyScreens/capoleon.png
 
 - type: lobbyBackground
   id: kissme
-  background: /Textures/Backmen/LobbyScreens/kissme.jpg
+  background: /Textures/Genesis/LobbyScreens/kissme.jpg
+
+- type: lobbyBackground
+  id: ClownAndHos
+  background: /Textures/Genesis/LobbyScreens/clown_and_hos.png
+
+- type: lobbyBackground
+  id: Insanity
+  background: /Textures/Genesis/LobbyScreens/insanity.png
+
+- type: lobbyBackground
+  id: PapersPls
+  background: /Textures/Genesis/LobbyScreens/paperspls.png
+
+- type: lobbyBackground
+  id: RND
+  background: /Textures/Genesis/LobbyScreens/rnd.png
+
+

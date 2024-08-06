@@ -63,7 +63,7 @@
   sprites:
   - sprite: Genesis/Mobs/Customization/felinid_ears.rsi
     state: tall_outer
-  - sprite: Backmen/Mobs/Customization/felinid_ears.rsi
+  - sprite: Genesis/Mobs/Customization/felinid_ears.rsi
     state: tall_inner
   - sprite: Genesis/Mobs/Customization/felinid_ears.rsi
     state: tall_fuzz

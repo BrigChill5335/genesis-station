@@ -1,17 +1,17 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Corvax",
+  "copyright": "Corvax lmao Debiloid3000",
   "size": {
     "x": 8,
     "y": 8
   },
   "states": [
     {
-      "name": "IAA"
+      "name": "Pilot"
     },
     {
-      "name": "Pilot"
+      "name": "IAA"
     }
   ]
 }
