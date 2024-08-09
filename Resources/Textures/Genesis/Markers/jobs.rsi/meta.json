@@ -1,17 +1,68 @@
 {
   "version": 1,
-  "license": "CC-BY-SA-3.0",
-  "copyright": "taken from TG ss13 build at commit https://github.com/tgstation/tgstation/blob/a4850faf88179baaa463ca29ab659e475bf8ed49/icons/mob/clothing/under/centcom.dmi / https://github.com/tgstation/tgstation/blob/a4850faf88179baaa463ca29ab659e475bf8ed49/icons/obj/clothing/under/centcom.dmi modified and added missing sprites by Kirillcas(github)",
+  "license": null,
+  "copyright": "Debiloid3000",
   "size": {
     "x": 32,
     "y": 32
   },
   "states": [
     {
-      "name": "green"
+      "name": "hos"
     },
     {
-      "name": "DeathSquadOfficer"
+      "name": "lawyer"
+    },
+    {
+      "name": "mobster"
+    },
+    {
+      "name": "mystagogue"
+    },
+    {
+      "name": "nanotrasenadmiral"
+    },
+    {
+      "name": "nanotrasendiplomat"
+    },
+    {
+      "name": "nyanogladiator"
+    },
+    {
+      "name": "nyanomailcarrier"
+    },
+    {
+      "name": "nyanomantis"
+    },
+    {
+      "name": "nyanomartialartist"
+    },
+    {
+      "name": "nyanoprisonguard"
+    },
+    {
+      "name": "prosecutor"
+    },
+    {
+      "name": "qm"
+    },
+    {
+      "name": "rd"
+    },
+    {
+      "name": "salvagespecialist"
+    },
+    {
+      "name": "scientist"
+    },
+    {
+      "name": "security_cadet"
+    },
+    {
+      "name": "security_officer"
+    },
+    {
+      "name": "warden"
     },
     {
       "name": "blueshield"
@@ -20,10 +71,55 @@
       "name": "blueshield2"
     },
     {
-      "name": "deathsquad"
+      "name": "brigmedic"
+    },
+    {
+      "name": "captain"
+    },
+    {
+      "name": "ce"
+    },
+    {
+      "name": "centcommfieldofficer"
+    },
+    {
+      "name": "centcommofficer"
+    },
+    {
+      "name": "centcommoperativesrt"
+    },
+    {
+      "name": "chemist"
+    },
+    {
+      "name": "chiefjustice"
+    },
+    {
+      "name": "clerk"
+    },
+    {
+      "name": "cmo"
     },
     {
       "name": "consultant"
+    },
+    {
+      "name": "courier"
+    },
+    {
+      "name": "deathsquad"
+    },
+    {
+      "name": "DeathSquadOfficer"
+    },
+    {
+      "name": "detective"
+    },
+    {
+      "name": "green"
+    },
+    {
+      "name": "hop"
     }
   ]
 }
