@@ -75,12 +75,15 @@
   name: loadout-group-outerclothing
   loadouts:
   - BlueShieldOuterClothing
+  - BlueShieldJacket
+  - BlueShieldArmorSlim
+  - BlueShieldWintercoat
 
 - type: loadoutGroup
   id: BlueShieldBelt
   name: loadout-group-belt
   loadouts:
-  - SecurityBelt
+  - UniversalSlimBelt
   - BlueShieldWebbing
 
 - type: loadoutGroup

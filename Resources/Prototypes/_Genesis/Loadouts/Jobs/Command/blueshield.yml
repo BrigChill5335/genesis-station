@@ -111,7 +111,25 @@
   equipment:
     outerClothing: ClothingOuterArmorJacketBlueShield
 
+- type: loadout
+  id: BlueShieldArmorSlim
+  equipment: BlueShieldArmorSlim
+
+- type: startingGear
+  id: BlueShieldArmorSlim
+  equipment:
+    outerClothing: ClothingOuterArmorBlueShieldSlim
+
 # Belt
+- type: loadout
+  id: UniversalSlimBelt
+  equipment: UniversalSlimBelt
+
+- type: startingGear
+  id: UniversalSlimBelt
+  equipment:
+    belt: ClothingBeltUniversalSlimFilled
+
 - type: loadout
   id: BlueShieldWebbing
   equipment: BlueShieldWebbing
