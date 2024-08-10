@@ -8,7 +8,6 @@ job-name-prison-engineer = тюремный инженер
 job-name-prison-pilot = тюремный пилот
 job-name-prison-worker = тюремный разнорабочий
 job-name-prison-guard = тюремный охранник
-job-name-prisoner = заключенный
 # bruh 
 JobBlueShield = офицер «Синий Щит»
 JobCentComOfficial = представитель ЦК
@@ -20,4 +19,3 @@ JobPrisonEngineer = тюремный инженер
 JobPrisonGuard = тюремный охранник
 JobPrisonPilot = тюремный пилот
 JobPrisonWorker = тюремный разнорабочий
-JobPrisoner = заключенный
