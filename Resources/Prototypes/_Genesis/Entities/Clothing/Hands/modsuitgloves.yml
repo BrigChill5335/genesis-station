@@ -9,8 +9,8 @@
     sprite: Genesis/Clothing/Hands/Modsuit/standard.rsi
   - type: Clothing
     sprite: Genesis/Clothing/Hands/Modsuit/standard.rsi
-    equipSound: /Audio/Items/ballin.ogg
-    unequipSound: /Audio/Items/ballout.ogg
+    equipSound: /Audio/Genesis/Items/ballin.ogg
+    unequipSound: /Audio/Genesis/Items/ballout.ogg
   - type: GloveHeatResistance
     heatResistance: 1400
   - type: Insulated
