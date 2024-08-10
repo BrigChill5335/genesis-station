@@ -42,6 +42,8 @@
     sprite: Genesis/Clothing/Head/Modsuit/blueshield.rsi
   - type: Clothing
     sprite: Genesis/Clothing/Head/Modsuit/blueshield.rsi
+    equipSound: /Audio/Genesis/Items/ballin.ogg
+    unequipSound: /Audio/Genesis/Items/ballout.ogg
   - type: PointLight
     color: "#6088FF"
 
