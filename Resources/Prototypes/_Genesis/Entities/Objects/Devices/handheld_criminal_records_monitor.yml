@@ -1,18 +1,13 @@
 - type: entity
-  name: handheld-criminal-records-monitor
+  name: handheld criminal records monitor
   suffix: DO NOT MAP
-  parent:
-  - BaseItem
-  - PowerCellSlotSmallItem
+  parent: BaseItem
   id: HandheldCriminalRecordsMonitor
   description: A hand-held crew monitor displaying the status of wanted persons on station.
   components:
   - type: Sprite
     sprite: Genesis/Objects/Specific/handheldcriminalrecordsmonitor.rsi
     state: monitor
-  - type: PowerCellDraw
-    drawRate: 0
-    useRate: 20
   - type: CriminalRecordsConsole
   - type: UserInterface
     interfaces:
@@ -28,13 +23,3 @@
   - type: GuideHelp
     guides:
       - CriminalRecords
-
-- type: entity
-  id: HandheldCriminalRecordsMonitorEmpty
-  parent: HandheldCriminalRecordsMonitor
-  suffix: Empty
-  components:
-  - type: ItemSlots
-    slots:
-      cell_slot:
-        name: power-cell-slot-component-slot-name-default
