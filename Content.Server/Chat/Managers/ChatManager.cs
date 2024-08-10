@@ -270,7 +270,7 @@ namespace Content.Server.Chat.Managers
             }
 
             var clients = _adminManager.ActiveAdmins.Select(p => p.Channel);
-            var senderName = !string.IsNullOrEmpty(senderAdmin.Title) ? $"\\[{senderAdmin.Title}\\]{player.Name}" : player.Name;
+            var senderName = !string.IsNullOrEmpty(senderAdmin.Title) ? $"\\[{senderAdmin.Title}\\] {player.Name}" : player.Name;
             }
             var wrappedMessage = Loc.GetString("chat-manager-send-admin-chat-wrap-message",
                                             ("adminChannelName", Loc.GetString("chat-manager-admin-channel-name")),
