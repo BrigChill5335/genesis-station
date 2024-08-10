@@ -12,8 +12,8 @@
   - type: Clothing
     sprite: Genesis/Clothing/OuterClothing/Modsuit/standard.rsi
     slots: [ OUTERCLOTHING ]
-    equipSound: /Audio/Items/ballin.ogg
-    unequipSound: /Audio/Items/ballout.ogg
+    equipSound: /Audio/Genesis/Items/ballin.ogg
+    unequipSound: /Audio/Genesis/Items/ballout.ogg
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000
