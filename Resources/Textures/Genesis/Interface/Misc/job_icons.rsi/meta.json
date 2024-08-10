@@ -1,14 +1,131 @@
 {
-    "version": 1,
-    "license": "CLA",
-    "copyright": "SUNRISE",
-    "size": {
-        "x": 8,
-        "y": 8
+  "version": 1,
+  "license": "CLA",
+  "copyright": "Debiloid3000",
+  "size": {
+    "x": 8,
+    "y": 8
+  },
+  "states": [
+    {
+      "name": "BlueShield"
     },
-    "states": [
-        {
-            "name": "BlueShield"
-        }
-    ]
+    {
+      "name": "MindShield",
+      "delays": [
+        [
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "NSCC"
+    },
+    {
+      "name": "NTCombatant"
+    },
+    {
+      "name": "NTEngineerOfficer"
+    },
+    {
+      "name": "NTMedic"
+    },
+    {
+      "name": "NTMedicalOfficer"
+    },
+    {
+      "name": "NTSpecOpsOfficer"
+    },
+    {
+      "name": "nyanoMailCarrier"
+    },
+    {
+      "name": "nyanoMantis"
+    },
+    {
+      "name": "nyanoMartialArtist"
+    },
+    {
+      "name": "nyanoPrisonGuard"
+    },
+    {
+      "name": "OCC"
+    },
+    {
+      "name": "OfficerCC"
+    },
+    {
+      "name": "Prosecutor"
+    },
+    {
+      "name": "SCC"
+    },
+    {
+      "name": "SecurityPilot"
+    },
+    {
+      "name": "slave"
+    },
+    {
+      "name": "USSPCombatant"
+    },
+    {
+      "name": "USSPEngineerOfficer"
+    },
+    {
+      "name": "USSPMarshal"
+    },
+    {
+      "name": "USSPMedic"
+    },
+    {
+      "name": "USSPMedicalOfficer"
+    },
+    {
+      "name": "Chaplain"
+    },
+    {
+      "name": "ChiefJustice"
+    },
+    {
+      "name": "Clerk"
+    },
+    {
+      "name": "DCC"
+    },
+    {
+      "name": "ECC"
+    },
+    {
+      "name": "IOTCombatant"
+    },
+    {
+      "name": "IOTCommand"
+    },
+    {
+      "name": "IOTEngineerOfficer"
+    },
+    {
+      "name": "IOTMedic"
+    },
+    {
+      "name": "IOTMedicalOfficer"
+    },
+    {
+      "name": "Lawyer"
+    },
+    {
+      "name": "master"
+    },
+    {
+      "name": "MCC"
+    },
+    {
+      "name": "MedicalBorg"
+    },
+    {
+      "name": "nyanoGladiator"
+    }
+  ]
 }

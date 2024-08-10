@@ -2,5 +2,5 @@
   parent: JobIcon
   id: JobIconBlueShield
   icon:
-    sprite: Genesis/Interface/Misc/job_icons.rsi
+    sprite: /Textures/Genesis/Interface/Misc/job_icons.rsi
     state: BlueShield
