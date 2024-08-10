@@ -193,10 +193,10 @@
   description: A pair of boots for a MODsuit. A fancy, high-tech suit for Nanotrasen's high ranking officers.
   components:
   - type: Sprite
-    sprite: Genesis/Clothing/Shoes/Boots/Modsuit/corp.rsi
+    sprite: Genesis/Clothing/Shoes/Modsuit/corp.rsi
     state: icon
   - type: Clothing
-    sprite: Genesis/Clothing/Shoes/Boots/Modsuit/corp.rsi
+    sprite: Genesis/Clothing/Shoes/Modsuit/corp.rsi
 
 # Actions (Remove when the system is done)
 - type: entity
