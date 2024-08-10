@@ -1,17 +1,17 @@
 - type: lobbyBackground
-  id: pivo
+  id: Pivo
   background: /Textures/Genesis/LobbyScreens/pivo.png
 
 - type: lobbyBackground
-  id: twix
+  id: Twix
   background: /Textures/Genesis/LobbyScreens/twix.png
 
 - type: lobbyBackground
-  id: capoleon
+  id: Capoleon
   background: /Textures/Genesis/LobbyScreens/capoleon.png
 
 - type: lobbyBackground
-  id: kissme
+  id: KissMe
   background: /Textures/Genesis/LobbyScreens/kissme.jpg
 
 - type: lobbyBackground
