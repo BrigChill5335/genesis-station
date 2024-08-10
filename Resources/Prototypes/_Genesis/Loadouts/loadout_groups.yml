@@ -8,6 +8,37 @@
   - CentComDuffel
   - CentComModSuit
 
+- type: loadoutGroup
+  id: CentComJumpsuit
+  name: loadout-group-jumpsuit
+  loadouts:
+  - CentComOfficerJumpsuit
+  - CentComOfficerJumpskirt
+  - CentComOfficialJumpsuit
+  - CentComOfficialJumpskirt
+
+- type: loadoutGroup
+  id: CentComHats
+  name: loadout-group-head
+  loadouts:
+  - HeadHatBeretCentcomNaval
+  - HeadHatCentcomcap
+  - HeadHatCentcom
+
+- type: loadoutGroup
+  id: CentComNeck
+  name: loadout-group-neck
+  minLimit: 0
+  loadouts:
+  - CentComScarf
+  - CentComCloak
+
+- type: loadoutGroup
+  id: CentComOuterClothing
+  name: loadout-group-outerclothing
+  loadouts:
+  - ArmorCentcomCarapace
+
 # Consultant
 - type: loadoutGroup
   id: ConsultantHead
@@ -24,13 +55,6 @@
   - ConsultantJumpskirt
   - ConsultantFormalSuit
   - ConsultantFormalSkirt
-
-- type: loadoutGroup
-  id: ConsultantNeck
-  name: loadout-group-neck
-  minLimit: 0
-  loadouts:
-  - ConsultantNeck
 
 - type: loadoutGroup
   id: ConsultantOuterClothing

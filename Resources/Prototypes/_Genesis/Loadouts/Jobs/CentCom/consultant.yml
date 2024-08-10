@@ -45,53 +45,6 @@
   equipment:
     head: ClothingHeadHatCentcomConsultantCap
 
-# Neck
-- type: loadout
-  id: ConsultantNeck
-  equipment: ConsultantNeck
-
-- type: startingGear
-  id: ConsultantNeck
-  equipment:
-    neck: ClothingNeckScarfStripedCentcom
-
-# Back
-- type: loadout
-  id: CentComBackpack
-  equipment: CentComBackpack
-
-- type: startingGear
-  id: CentComBackpack
-  equipment:
-    back: ClothingBackpackCentCom
-
-- type: loadout
-  id: CentComSatchel
-  equipment: CentComSatchel
-
-- type: startingGear
-  id: CentComSatchel
-  equipment:
-    back: ClothingBackpackSatchelCentCom
-
-- type: loadout
-  id: CentComDuffel
-  equipment: CentComDuffel
-
-- type: startingGear
-  id: CentComDuffel
-  equipment:
-    back: ClothingBackpackDuffelCentCom
-
-- type: loadout
-  id: CentComModSuit
-  equipment: CentComModSuit
-
-- type: startingGear
-  id: CentComModSuit
-  equipment:
-    back: ClothingModsuitBackCorp
-
 # Outer clothing
 - type: loadout
   id: ConsultantOuterClothing

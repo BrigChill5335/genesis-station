@@ -1,1 +1,11 @@
 job-description-blueshield = Не дайте членам командования умереть. Вы не должны выполнять их приказы, цель одна - не дать им умереть до конца смены.
+job-description-magistrat = Вы само правосудие станции, ваша задача судить всех крупных нарушителей порядка.
+job-description-centcomop = Не одобряйте эвакуацию. Не одобряйте ОБР. Делите зарплату экипажа станций на 0.
+job-description-roboticist = Занимайтесь созданием киборгов, мехов и чините их.
+job-description-head-of-prison = Управляйте лучшим местом на планете.
+job-description-prison-chef = Готовьте еду для заключенных и персонала тюрьмы.
+job-description-prison-doctor = Лечите побитых заключенных.
+job-description-prison-engineer = Обеспечивайте функционирование тюрьмы.
+job-description-prison-pilot = Доставляйте заключенных в тюрьму на своем шаттле.
+job-description-prison-worker = Выполняйте работу за которую никто не хочет браться.
+job-description-prison-guard = Следите за заключенными.

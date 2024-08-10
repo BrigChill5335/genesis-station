@@ -14,10 +14,32 @@
 
 # CentCom
 - type: roleLoadout
+  id: JobCentComOfficial
+  groups:
+  - CentComHead
+  - CentComNeck
+  - CentComJumpsuit
+  - CentComBackpack
+  - CentComOuterClothing
+  - Glasses
+  - Trinkets
+
+- type: roleLoadout
+  id: JobCentComOperator
+  groups:
+  - CentComHead
+  - CentComNeck
+  - CentComJumpsuit
+  - CentComBackpack
+  - CentComOuterClothing
+  - Glasses
+  - Trinkets
+
+- type: roleLoadout
   id: JobCentComConsultant
   groups:
   - ConsultantHead
-  - ConsultantNeck
+  - CentComNeck
   - ConsultantJumpsuit
   - CentComBackpack
   - ConsultantOuterClothing

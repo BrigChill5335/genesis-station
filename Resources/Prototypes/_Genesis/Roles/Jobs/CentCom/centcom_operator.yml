@@ -1,0 +1,31 @@
+- type: job
+  id: CentComOperator
+  name: job-name-centcomop
+  description: job-description-centcomop
+  playTimeTracker: JobCentCommOperator
+  requirements:
+    - !type:DepartmentTimeRequirement
+      department: Command
+      time: 468000  # 130 hours
+  startingGear: CentComOperatorGear
+  icon: "JobIconNanotrasen"
+  supervisors: job-supervisors-centcom
+  canBeAntag: false
+  alwaysUseSpawner: true
+  accessGroups:
+  - AllAccess
+  access:
+  - CentralCommand
+
+- type: startingGear
+  id: CentComOperatorGear
+  equipment:
+    shoes: ClothingShoesBootsCombatFilled
+    eyes: ClothingEyesGlassesSunglasses
+    gloves: ClothingHandsGlovesColorBlack
+    id: CentcomPDA
+    ears: ClothingHeadsetCentCom
+    belt: WeaponPistolN1984
+  storage:
+    back:
+    - RubberStampCentcom
