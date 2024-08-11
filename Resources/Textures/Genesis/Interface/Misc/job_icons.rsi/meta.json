@@ -62,9 +62,6 @@
       "name": "SCC"
     },
     {
-      "name": "SecurityPilot"
-    },
-    {
       "name": "slave"
     },
     {
@@ -126,6 +123,60 @@
     },
     {
       "name": "nyanoGladiator"
+    },
+    {
+      "name": "SecurityOfficer"
+    },
+    {
+      "name": "SecurityBorg"
+    },
+    {
+      "name": "SecurityCombatBorg"
+    },
+    {
+      "name": "ServiceBorg"
+    },
+    {
+      "name": "ClownBorg"
+    },
+    {
+      "name": "EngineerBorg"
+    },
+    {
+      "name": "HeadOfPrison"
+    },
+    {
+      "name": "JanitorBorg"
+    },
+    {
+      "name": "Magistrat"
+    },
+    {
+      "name": "MedicalBorg"
+    },
+    {
+      "name": "MinerBorg"
+    },
+    {
+      "name": "PeaceBorg"
+    },
+    {
+      "name": "PrisonChef"
+    },
+    {
+      "name": "PrisonDoctor"
+    },
+    {
+      "name": "PrisonEngineer"
+    },
+    {
+      "name": "PrisonGuard"
+    },
+    {
+      "name": "PrisonPilot"
+    },
+    {
+      "name": "PrisonWorker"
     }
   ]
 }

@@ -20,7 +20,7 @@
   description: department-Law-description
   color: "#FF5297"
   roles:
-  #- Magistrat
+  - Magistrat
   - IAA
   - Lawyer
 

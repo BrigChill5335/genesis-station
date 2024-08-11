@@ -11,6 +11,7 @@
   icon: "JobIconNanotrasen"
   supervisors: job-supervisors-centcom
   canBeAntag: false
+  setPreference: true
   alwaysUseSpawner: true
   accessGroups:
   - AllAccess
