@@ -28,15 +28,6 @@
     gloves: ClothingHandsGlovesCombat
 
 - type: loadout
-  id: RobohandsGloves
-  equipment: RobohandsGloves
-
-- type: startingGear
-  id: RobohandsGloves
-  equipment:
-    gloves: ClothingHandsGlovesRobohands
-
-- type: loadout
   id: LeatherGloves
   equipment: LeatherGloves
 
