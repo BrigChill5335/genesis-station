@@ -810,6 +810,8 @@
     layers:
     - state: default
     - state: idseniorengineer
+  - type: IdCard #Genesis-Edit
+    jobTitle: Senior Engineer #Genesis-Edit
 
 - type: entity
   parent: ResearchIDCard
@@ -820,6 +822,8 @@
     layers:
     - state: default
     - state: idseniorresearcher
+  - type: IdCard #Genesis-Edit
+    jobTitle: Senior Researcher #Genesis-Edit
 
 - type: entity
   parent: MedicalIDCard
@@ -830,6 +834,8 @@
     layers:
     - state: default
     - state: idseniorphysician
+  - type: IdCard #Genesis-Edit
+    jobTitle: Senior Physician #Genesis-Edit
 
 - type: entity
   parent: SecurityIDCard
@@ -840,6 +846,8 @@
     layers:
     - state: default
     - state: idseniorofficer
+  - type: IdCard #Genesis-Edit
+    jobTitle: Senior Officer #Genesis-Edit
 
 - type: entity
   parent: IDCardStandard
