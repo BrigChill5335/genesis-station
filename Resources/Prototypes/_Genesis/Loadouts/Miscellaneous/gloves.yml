@@ -100,7 +100,7 @@
     gloves: ClothingHandsGlovesColorWhite
 
 - type: loadout
-  id: BlackGlove
+  id: BlackGloves
   equipment: BlackGloves
 
 - type: startingGear
