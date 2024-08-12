@@ -7,9 +7,6 @@
 - type: loadout
   id: JumpsuitSeniorEngineer
   equipment: JumpsuitSeniorEngineer
-  effects:
-  - !type:GroupLoadoutEffect
-    proto: MaleMoment
 
 - type: startingGear
   id: JumpsuitSeniorEngineer
