@@ -177,6 +177,15 @@
     },
     {
       "name": "PrisonWorker"
+    },
+    {
+      "name": "HeadOfSecurity"
+    },
+    {
+      "name": "SeniorSalvage"
+    },
+    {
+      "name": "SeniorService"
     }
   ]
 }

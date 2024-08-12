@@ -65,6 +65,30 @@
     },
     {
       "name": "pda-seniorofficer"
+    },
+    {
+      "name": "pda-magistrat"
+    },
+    {
+      "name": "pda-mailcarrier"
+    },
+    {
+      "name": "pda-martialartist"
+    },
+    {
+      "name": "pda-prosecutor"
+    },
+    {
+      "name": "pda-chaplain"
+    },
+    {
+      "name": "pda-chiefjustice"
+    },
+    {
+      "name": "pda-clerk"
+    },
+    {
+      "name": "pda-corpsman"
     }
   ]
 }

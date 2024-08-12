@@ -53,10 +53,20 @@
   name: magistrat PDA
   description: Corporation and profit are best friends.
   components:
-    - type: Pda
-      id: MagistratIDCard
-      state: pda-lawyer
-    - type: PdaBorderColor
-      borderColor: "#6f6192"
-    - type: Icon
-      state: pda-lawyer
+  - type: Sprite
+    sprite: Genesis/Objects/Devices/pda.rsi
+  - type: Pda
+    id: MagistratIDCard
+    state: pda-magistrat
+    penSlot:
+      startingItem: PenCap
+      priority: -1
+      whitelist:
+        tags:
+        - Write
+  - type: PdaBorderColor
+    borderColor: "#6f6192"
+    accentHColor: "#2851A4"
+  - type: Icon
+    sprite: Genesis/Objects/Devices/pda.rsi
+    state: pda-magistrat
