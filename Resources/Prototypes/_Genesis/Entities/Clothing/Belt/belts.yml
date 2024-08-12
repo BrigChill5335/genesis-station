@@ -30,6 +30,7 @@
     sprite: Genesis/Clothing/Belt/universalslim.rsi
   - type: Clothing
     sprite: Genesis/Clothing/Belt/universalslim.rsi
+  - type: Storage
     whitelist:
       tags:
         - Powerdrill
