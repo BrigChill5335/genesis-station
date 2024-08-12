@@ -100,15 +100,6 @@
     gloves: ClothingHandsGlovesColorGreen
 
 - type: loadout
-  id: OrangeGloves
-  equipment: OrangeGloves
-
-- type: startingGear
-  id: OrangeGloves
-  equipment:
-    gloves: ClothingHandsGlovesColorOrange
-
-- type: loadout
   id: WhiteGloves
   equipment: WhiteGloves
 
