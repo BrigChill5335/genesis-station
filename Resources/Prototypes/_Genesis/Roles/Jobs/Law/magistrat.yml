@@ -42,7 +42,7 @@
 - type: startingGear
   id: MagistratGear
   equipment:
-    jumpsuit: MagistratUniformSuit
+    jumpsuit: ClothingUniformJumpsuitLawyerBlack #MagistratUniformSuit fix idk when do it zaaamn
     shoes: ClothingShoesBootsLaceup
     eyes: ClothingEyesGlassesSecurity
     gloves: ClothingHandsGlovesColorWhite
