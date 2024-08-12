@@ -667,7 +667,7 @@
   - StationEngineerHardhatYellow
   - StationEngineerHardhatOrange
   - StationEngineerHardhatRed
-  - SeniorEngineerBeret
+  - EngineeringBeret
 
 - type: loadoutGroup
   id: StationEngineerJumpsuit

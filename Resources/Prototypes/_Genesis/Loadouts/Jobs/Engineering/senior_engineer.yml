@@ -1,0 +1,26 @@
+# Head
+- type: loadout
+  id: SeniorEngineerBeret
+  equipment: EngineeringBeret
+
+# Jumpsuit
+- type: loadout
+  id: JumpsuitSeniorEngineer
+  equipment: JumpsuitSeniorEngineer
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: MaleMoment
+
+- type: startingGear
+  id: JumpsuitSeniorEngineer
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSeniorEngineer
+
+- type: loadout
+  id: JumpskirtSeniorEngineer
+  equipment: JumpskirtSeniorEngineer
+
+- type: startingGear
+  id: JumpskirtSeniorEngineer
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtSeniorEngineer

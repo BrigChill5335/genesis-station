@@ -1,0 +1,17 @@
+- type: loadout
+  id: JumpsuitSeniorOfficer
+  equipment: JumpsuitSeniorOfficer
+
+- type: startingGear
+  id: JumpsuitSeniorOfficer
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSeniorOfficer
+
+- type: loadout
+  id: JumpskirtSeniorOfficer
+  equipment: JumpskirtSeniorOfficer
+
+- type: startingGear
+  id: JumpskirtSeniorOfficer
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtSeniorOfficer

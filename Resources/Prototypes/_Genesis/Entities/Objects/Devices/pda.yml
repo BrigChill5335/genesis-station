@@ -1,7 +1,7 @@
 - type: entity
   parent: BasePDA
   id: BlueShieldPDA
-  name: captain PDA
+  name: blueshield PDA
   description: Surprisingly no different from your PDA.
   components:
   - type: Sprite
@@ -70,3 +70,21 @@
   - type: Icon
     sprite: Genesis/Objects/Devices/pda.rsi
     state: pda-magistrat
+
+- type: entity
+  parent: BasePDA
+  id: RoboticistPDA
+  name: roboticist PDA
+  description: It's covered in something sticky.
+  components:
+  - type: Pda
+    id: RoboticistIDCard
+    state: pda-roboticist
+  - type: PdaBorderColor
+    borderColor: "#d7d7d0"
+    accentVColor: "#8900c9"
+  - type: Icon
+    state: pda-roboticist
+  - type: HealthAnalyzer
+    scanningEndSound:
+      path: "/Audio/Items/Medical/healthscanner.ogg"

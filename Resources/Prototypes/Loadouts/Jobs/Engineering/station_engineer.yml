@@ -47,7 +47,7 @@
     head: ClothingHeadHatHardhatRed
 
 - type: loadout
-  id: SeniorEngineerBeret
+  id: EngineeringBeret
   equipment: EngineeringBeret
   effects:
   - !type:GroupLoadoutEffect
