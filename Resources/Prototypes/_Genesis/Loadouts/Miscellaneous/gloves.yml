@@ -1,15 +1,6 @@
 #Genesis
 # Gloves
 - type: loadout
-  id: FingerlessInsulatedGloves
-  equipment: FingerlessInsulatedGloves
-
-- type: startingGear
-  id: FingerlessInsulatedGloves
-  equipment:
-    gloves: ClothingHandsGlovesFingerlessInsulated
-
-- type: loadout
   id: FingerlessGloves
   equipment: FingerlessGloves
 
