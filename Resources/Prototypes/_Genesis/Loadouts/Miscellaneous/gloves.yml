@@ -37,15 +37,6 @@
     gloves: ClothingHandsGlovesLeather
 
 - type: loadout
-  id: PurpleGloves
-  equipment: ColorPurpleGloves
-
-- type: startingGear
-  id: PurpleGloves
-  equipment:
-    gloves: ClothingHandsGlovesColorPurple
-
-- type: loadout
   id: RedGloves
   equipment: RedGloves
 
