@@ -96,8 +96,6 @@
         - MagazineMagnum
         - CombatKnife
         - Truncheon
-        - Gun
-        - CartridgeAmmo
       components:
         - SprayPainter
         - NetworkConfigurator
@@ -131,6 +129,8 @@
         - Whistle
         - HolosignProjector
         - BalloonPopper
+        - Gun
+        - CartridgeAmmo
   - type: ItemMapper
     mapLayers:
       drill:
