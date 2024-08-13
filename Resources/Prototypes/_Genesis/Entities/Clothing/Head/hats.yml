@@ -80,7 +80,6 @@
     sprite: Genesis/Clothing/Head/Hats/beret_cargo.rsi
   - type: Tag
     tags:
-    - Clothing
     - ClothMade
     - HamsterWearable
     - WhitelistChameleon
