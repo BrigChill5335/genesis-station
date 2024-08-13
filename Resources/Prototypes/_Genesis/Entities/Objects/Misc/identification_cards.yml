@@ -83,6 +83,6 @@
   - type: Sprite
     layers:
     - state: default
-    - state: idshaftminer  #idsalvage
+    - state: idshaftminer
   - type: PresetIdCard
     job: Miner
