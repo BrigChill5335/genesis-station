@@ -8,6 +8,7 @@
   - BlueShieldJumpsuit
   - BlueShieldBackpack
   - BlueShieldOuterClothing
+  - BlueShieldShoes
   - BlueShieldBelt
   - BlueShieldPocket
   - BlueShieldPocket2
@@ -90,6 +91,7 @@
   id: JobSeniorOfficer
   groups:
   - GroupTankHarness
+  - SecurityHead
   - SeniorOfficerJumpsuit
   - SecurityBackpack
   - SecurityOuterClothing
@@ -106,11 +108,11 @@
   id: JobSeniorResearcher
   groups:
   - GroupTankHarness
-  - ScientistHead
+  - SeniorResearcherHead
   - ScientistNeck
   - SeniorResearcherJumpsuit
   - ScientistBackpack
-  - ScientistOuterClothing
+  - SeniorResearcherOuterClothing
   - ScientistGloves
   - ScientistShoes
   - Glasses
@@ -138,10 +140,11 @@
   id: JobSeniorEngineer
   groups:
   - GroupTankHarness
-  - StationEngineerHead
+  - SeniorEngineerHead
   - SeniorEngineerJumpsuit
   - StationEngineerBackpack
   - StationEngineerOuterClothing
+  - ChiefEngineerGloves
   - StationEngineerShoes
   - SurvivalExtended
   - Trinkets
@@ -152,9 +155,12 @@
   groups:
   - GroupTankHarness
   - SeniorSalvageHead
+  - SeniorSalvageNeck
   - SeniorSalvageJumpsuit
   - SalvageSpecialistBackpack
   - SalvageSpecialistOuterClothing
+  - CargoGloves
+  - SalvageSpecialistBelt
   - Glasses
   - Survival
   - Trinkets
@@ -195,7 +201,9 @@
   - MinerJumpsuit
   - SalvageSpecialistBackpack
   - SalvageSpecialistOuterClothing
+  - CargoGloves
   - SalvageSpecialistShoes
+  - SalvageSpecialistBelt
   - Glasses
   - Survival
   - Trinkets

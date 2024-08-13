@@ -116,6 +116,13 @@
   - BlueShieldWintercoat
 
 - type: loadoutGroup
+  id: BlueShieldShoes
+  name: loadout-group-shoes
+  loadouts:
+  - JackBootsBlueShield
+  - SpetsnazBoots
+
+- type: loadoutGroup
   id: BlueShieldBelt
   name: loadout-group-belt
   loadouts:
@@ -215,6 +222,21 @@
   - MagazinePistolHighCapacity
   - SpeedLoaderMagnum
 
+- type: loadoutGroup
+  id: SecurityCadetGloves
+  name: loadout-group-gloves
+  loadouts:
+  - BlackGloves
+  - FingerlessGloves
+
+- type: loadoutGroup
+  id: SecurityGloves
+  name: loadout-group-gloves
+  loadouts:
+  - BlackGloves
+  - CombatGloves
+  - FingerlessGloves
+
 # Law
 - type: loadoutGroup
   id: MagistratHead
@@ -261,6 +283,7 @@
   - StationEngineerHardhatYellow
   - StationEngineerHardhatOrange
   - StationEngineerHardhatRed
+  - ChiefEngineerHead
   - SeniorEngineerBeret
 
 - type: loadoutGroup
@@ -269,6 +292,13 @@
   minLimit: 0
   loadouts:
   - SeniorSalvageBeret
+
+- type: loadoutGroup
+  id: SeniorSalvageNeck
+  name: loadout-group-neck
+  minLimit: 0
+  loadouts:
+  - MinerCloak
 
 - type: loadoutGroup
   id: SeniorOfficerJumpsuit
@@ -366,6 +396,51 @@
   name: loadout-group-jumpsuit
   loadouts:
   - JumpsuitSalvage
+
+- type: loadoutGroup
+  id: CargoGloves
+  name: loadout-group-gloves
+  loadouts:
+  - BlackGloves
+  - FingerlessGloves
+  - BrownGloves
+  - LightBrownGloves
+
+- type: loadoutGroup
+  id: CargoBelt
+  name: loadout-group-belt
+  loadouts:
+  - UtilityBelt
+
+- type: loadoutGroup
+  id: SalvageSpecialistBelt
+  name: loadout-group-belt
+  loadouts:
+  - UtilityBelt
+  - SalvageWebbing
+  - MiningWebbingBelt
+
+# Engineering
+- type: loadoutGroup
+  id: EngineeringGloves
+  name: loadout-group-gloves
+  loadouts:
+  - YellowGloves
+
+- type: loadoutGroup
+  id: AtmosGloves
+  name: loadout-group-gloves
+  loadouts:
+  - YellowGloves
+  - AtmosGloves
+
+- type: loadoutGroup
+  id: ChiefEngineerGloves
+  name: loadout-group-gloves
+  loadouts:
+  - YellowGloves
+  - AtmosGloves
+  - ChiefEngineerGloves
 
 # NukeOps
 - type: loadoutGroup

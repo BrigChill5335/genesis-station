@@ -194,7 +194,9 @@
   - QuartermasterJumpsuit
   - CargoTechnicianBackpack
   - QuartermasterOuterClothing
+  - CargoGloves
   - QuartermasterShoes
+  - CargoBelt
   - Glasses
   - Survival
   - Trinkets
@@ -208,7 +210,9 @@
   - CargoTechnicianJumpsuit
   - CargoTechnicianBackpack
   - CargoTechnicianOuterClothing
+  - CargoGloves
   - CargoTechnicianShoes
+  - CargoBelt
   - Glasses
   - Survival
   - Trinkets
@@ -222,7 +226,9 @@
   - SalvageSpecialistJumpsuit
   - SalvageSpecialistBackpack
   - SalvageSpecialistOuterClothing
+  - CargoGloves
   - SalvageSpecialistShoes
+  - SalvageSpecialistBelt
   - Glasses
   - Survival
   - Trinkets
@@ -238,6 +244,7 @@
   - StationEngineerBackpack
   - ChiefEngineerNeck
   - ChiefEngineerOuterClothing
+  - ChiefEngineerGloves
   - ChiefEngineerShoes
   - SurvivalExtended
   - Trinkets
@@ -264,6 +271,7 @@
   - StationEngineerJumpsuit
   - StationEngineerBackpack
   - StationEngineerOuterClothing
+  - EngineeringGloves
   - StationEngineerShoes
   - SurvivalExtended
   - Trinkets
@@ -276,6 +284,7 @@
   - AtmosphericTechnicianJumpsuit
   - AtmosphericTechnicianBackpack
   - AtmosphericTechnicianOuterClothing
+  - AtmosGloves
   - AtmosphericTechnicianShoes
   - SurvivalExtended
   - Trinkets
@@ -339,6 +348,7 @@
   - HeadofSecurityJumpsuit
   - SecurityBackpack
   - HeadofSecurityOuterClothing
+  - SecurityGloves
   - SecurityBelt
   - SecurityShoes
   - SecurityOfficerPocket
@@ -354,6 +364,7 @@
   - WardenJumpsuit
   - SecurityBackpack
   - WardenOuterClothing
+  - SecurityGloves
   - SecurityBelt
   - SecurityShoes
   - SecurityPocket
@@ -369,6 +380,7 @@
   - SecurityJumpsuit
   - SecurityBackpack
   - SecurityOuterClothing
+  - SecurityGloves
   - SecurityShoes
   - SecurityBelt
   - SecurityShoes
@@ -399,6 +411,7 @@
   - SecurityCadetJumpsuit
   - SecurityBackpack
   - SecurityOuterClothing
+  - SecurityCadetGloves
   - SecurityShoes
   - SecurityBelt
   - SurvivalSecurity
