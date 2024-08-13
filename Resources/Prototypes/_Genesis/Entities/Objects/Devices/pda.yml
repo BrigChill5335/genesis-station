@@ -127,6 +127,8 @@
   name: miner PDA
   description: Smells like ash.
   components:
+  - type: Sprite
+    sprite: Genesis/Objects/Devices/pda.rsi
   - type: Pda
     id: MinerIDCard
     state: pda-mining
