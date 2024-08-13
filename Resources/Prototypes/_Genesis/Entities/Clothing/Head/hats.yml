@@ -97,7 +97,6 @@
     sprite: Genesis/Clothing/Head/Hats/beret_salvage.rsi
   - type: Tag
     tags:
-    - Clothing
     - ClothMade
     - HamsterWearable
     - WhitelistChameleon
