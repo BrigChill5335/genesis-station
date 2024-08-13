@@ -49,7 +49,7 @@
   - type: PresetIdCard
     job: Roboticist
 
-﻿- type: entity
+- type: entity
   parent: IDCardStandard
   id: SeniorSalvageIDCard
   name: senior salvage ID card
