@@ -62,7 +62,7 @@
   - type: PresetIdCard
     job: SeniorSalvage
 
-﻿- type: entity
+- type: entity
   parent: IDCardStandard
   id: SeniorServiceIDCard
   name: senior service ID card
