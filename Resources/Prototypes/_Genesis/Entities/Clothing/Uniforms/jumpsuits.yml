@@ -60,9 +60,9 @@
   description: Looks like a jumpsuit senior officer...
   components:
   - type: Sprite
-    sprite: Genesis/Clothing/Uniforms/jumpsuit/commander_salvage.rsi
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/commander_salvage.rsi
   - type: Clothing
-    sprite: Genesis/Clothing/Uniforms/jumpsuit/commander_salvage.rsi
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/commander_salvage.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -71,7 +71,7 @@
   description: Miner jumpsuit for mine ore!
   components:
   - type: Sprite
-    sprite: Genesis/Clothing/Uniforms/jumpsuit/mining.rsi
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/mining.rsi
   - type: Clothing
-    sprite: Genesis/Clothing/Uniforms/jumpsuit/mining.rsi
+    sprite: Genesis/Clothing/Uniforms/Jumpsuit/mining.rsi
 
