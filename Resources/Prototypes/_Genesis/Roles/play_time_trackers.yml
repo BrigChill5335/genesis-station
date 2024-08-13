@@ -31,4 +31,11 @@
 - type: playTimeTracker
   id: JobRoboticist
 
+- type: playTimeTracker
+  id: JobSeniorSalvage
 
+- type: playTimeTracker
+  id: JobSeniorService
+
+- type: playTimeTracker
+  id: JobMiner

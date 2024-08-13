@@ -264,6 +264,13 @@
   - SeniorEngineerBeret
 
 - type: loadoutGroup
+  id: SeniorSalvageHead
+  name: loadout-group-head
+  minLimit: 0
+  loadouts:
+  - SeniorSalvageBeret
+
+- type: loadoutGroup
   id: SeniorOfficerJumpsuit
   name: loadout-group-jumpsuit
   loadouts:
@@ -290,6 +297,12 @@
   loadouts:
   - JumpsuitSeniorEngineer
   - JumpskirtSeniorEngineer
+
+- type: loadoutGroup
+  id: SeniorSalvageJumpsuit
+  name: loadout-group-jumpsuit
+  loadouts:
+  - JumpsuitSeniorSalvage
 
 - type: loadoutGroup
   id: SeniorResearcherOuterClothing
@@ -333,6 +346,26 @@
   loadouts:
   - RoboticistCap
   - SkullBandana
+
+# Cargo
+- type: loadoutGroup
+  id: SalvageSpecialistHead
+  name: loadout-group-head
+  minLimit: 0
+  loadouts:
+  - SalvageBeret
+
+- type: loadoutGroup
+  id: MinerJumpsuit
+  name: loadout-group-jumpsuit
+  loadouts:
+  - JumpsuitMiner
+
+- type: loadoutGroup
+  id: SalvageSpecialistJumpsuit
+  name: loadout-group-jumpsuit
+  loadouts:
+  - JumpsuitSalvage
 
 # NukeOps
 - type: loadoutGroup

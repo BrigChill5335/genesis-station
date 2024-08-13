@@ -89,6 +89,12 @@
     },
     {
       "name": "pda-corpsman"
+    },
+    {
+      "name": "pda-mining"
+    },
+    {
+      "name": "pda-seniorsalvage"
     }
   ]
 }

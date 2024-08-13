@@ -48,3 +48,41 @@
     - state: idroboticist
   - type: PresetIdCard
     job: Roboticist
+
+﻿- type: entity
+  parent: IDCardStandard
+  id: SeniorSalvageIDCard
+  name: senior salvage ID card
+  components:
+  - type: Sprite
+    sprite: Genesis/Objects/Misc/id_cards.rsi
+    layers:
+    - state: default
+    - state: idseniorshaft
+  - type: PresetIdCard
+    job: SeniorSalvage
+
+﻿- type: entity
+  parent: IDCardStandard
+  id: SeniorServiceIDCard
+  name: senior service ID card
+  components:
+  - type: Sprite
+    sprite: Genesis/Objects/Misc/id_cards.rsi
+    layers:
+    - state: default
+    - state: idseniorservice
+  - type: PresetIdCard
+    job: SeniorService
+
+- type: entity
+  parent: IDCardStandard
+  id: MinerIDCard
+  name: miner ID Card
+  components:
+  - type: Sprite
+    layers:
+    - state: default
+    - state: idshaftminer  #idsalvage
+  - type: PresetIdCard
+    job: Miner

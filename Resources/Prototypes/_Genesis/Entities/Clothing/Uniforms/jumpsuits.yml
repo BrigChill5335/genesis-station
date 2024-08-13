@@ -52,3 +52,26 @@
     sprite: Genesis/Clothing/Uniforms/Jumpsuit/centcom_consultant_formal.rsi
   - type: Clothing
     sprite: Genesis/Clothing/Uniforms/Jumpsuit/centcom_consultant_formal.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitSeniorSalvage
+  name: senior salvage jumpsuit
+  description: Looks like a jumpsuit senior officer...
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Uniforms/jumpsuit/commander_salvage.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Uniforms/jumpsuit/commander_salvage.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitMiner
+  name: miner jumpsuit
+  description: Miner jumpsuit for mine ore!
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Uniforms/jumpsuit/mining.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Uniforms/jumpsuit/mining.rsi
+

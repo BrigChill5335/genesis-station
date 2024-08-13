@@ -5,7 +5,9 @@
   roles:
   - CargoTechnician
   - Quartermaster
+  - SeniorSalvage # Genesis-Station
   - SalvageSpecialist
+  - Miner # Genesis-Station
 
 - type: department
   id: Civilian
@@ -13,6 +15,7 @@
   color: "#9FED58"
   weight: -10
   roles:
+  - SeniorService # Genesis-Station
   - Bartender
   - Borg
   - Botanist

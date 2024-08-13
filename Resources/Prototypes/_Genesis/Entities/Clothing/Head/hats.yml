@@ -64,6 +64,40 @@
   description: Standard pilot's helmet. 
   components:
   - type: Sprite
-    sprite:  Genesis/Clothing/Head/Hats/pilothelmet.rsi
+    sprite: Genesis/Clothing/Head/Hats/pilothelmet.rsi
   - type: Clothing
-    sprite:  Genesis/Clothing/Head/Hats/pilothelmet.rsi
+    sprite: Genesis/Clothing/Head/Hats/pilothelmet.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretCargo
+  name: cargo's beret
+  description: A beret with the cargo's insignia emblazoned on it. For cargo that are more inclined towards style.
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Head/Hats/beret_cargo.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Head/Hats/beret_cargo.rsi
+  - type: Tag
+    tags:
+    - Clothing
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadHelmetBasic
+  id: ClothingHeadHatBeretSalvage
+  name: salvage's beret
+  description: A beret with the cargo's insignia emblazoned on it. For salvages that are more inclined towards style. 
+  components:
+  - type: Sprite
+    sprite: Genesis/Clothing/Head/Hats/beret_salvage.rsi
+  - type: Clothing
+    sprite: Genesis/Clothing/Head/Hats/beret_salvage.rsi
+  - type: Tag
+    tags:
+    - Clothing
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon

@@ -1,7 +1,7 @@
 - type: entity
   parent: ClothingBeltStorageBase
   id: ClothingBeltMiningWebbing
-  name: mining rig
+  name: mining webbing
   description: Universal unloading system for work in space.
   components:
   - type: Sprite
