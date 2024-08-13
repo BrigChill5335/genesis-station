@@ -5,19 +5,19 @@
   effects:
   - !type:JobRequirementLoadoutEffect
     requirement:
-    - !type:DepartmentTimeRequirement
-      department: Cargo
-      time: 108000 # 30 hrs
-  - !type:JobRequirementLoadoutEffect
-    requirement:
-    - !type:RoleTimeRequirement
+      !type:RoleTimeRequirement
       role: JobSalvageSpecialist
       time: 36000 #10 hrs
   - !type:JobRequirementLoadoutEffect
     requirement:
-    - !type:RoleTimeRequirement
+      !type:RoleTimeRequirement
       role: JobMiner
       time: 36000 #10 hrs
+  - !type:JobRequirementLoadoutEffect
+    requirement:
+      !type:DepartmentTimeRequirement
+      department: Cargo
+      time: 108000 # 30 hrs
 
 # Head
 - type: loadout
