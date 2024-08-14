@@ -12,6 +12,10 @@
     clothingPrototype: ClothingOuterModsuitBodyStandard
     requiredSlot: back
     slot: outerClothing
+  - type: Storage
+    maxItemSize: Huge
+    grid:
+    - 0,0,7,4
   - type: ContainerContainer
     containers:
       toggleable-clothing: !type:ContainerSlot {}
