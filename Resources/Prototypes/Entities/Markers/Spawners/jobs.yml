@@ -46,6 +46,7 @@
   - type: SpawnPoint
     job_id: Quartermaster
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: qm
@@ -59,6 +60,7 @@
   - type: SpawnPoint
     job_id: CargoTechnician
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: cargo_tech
@@ -71,6 +73,7 @@
   - type: SpawnPoint
     job_id: SalvageSpecialist
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: salvagespecialist
@@ -121,6 +124,7 @@
   - type: SpawnPoint
     job_id: SecurityCadet
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: security_cadet
@@ -306,6 +310,7 @@
   - type: SpawnPoint
     job_id: Captain
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: captain
@@ -318,6 +323,7 @@
   - type: SpawnPoint
     job_id: HeadOfPersonnel
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: hop
@@ -332,6 +338,7 @@
   - type: SpawnPoint
     job_id: ChiefEngineer
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: ce
@@ -356,6 +363,7 @@
   - type: SpawnPoint
     job_id: AtmosphericTechnician
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: atmospherics
@@ -370,6 +378,7 @@
   - type: SpawnPoint
     job_id: ChiefMedicalOfficer
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: cmo
@@ -406,6 +415,7 @@
   - type: SpawnPoint
     job_id: Chemist
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: chemist
@@ -420,6 +430,7 @@
   - type: SpawnPoint
     job_id: ResearchDirector
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: rd
@@ -446,6 +457,7 @@
   - type: SpawnPoint
     job_id: HeadOfSecurity
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: hos
@@ -458,6 +470,7 @@
   - type: SpawnPoint
     job_id: Warden
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: warden
@@ -470,6 +483,7 @@
   - type: SpawnPoint
     job_id: SecurityOfficer
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: security_officer
@@ -482,6 +496,7 @@
   - type: SpawnPoint
     job_id: Detective
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: detective
@@ -492,6 +507,7 @@
   name: brigmedic
   components:
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: brigmedic

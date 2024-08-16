@@ -32,9 +32,10 @@
   - type: SpawnPoint
     job_id: CentComOfficial
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
-      - state: centcom
+      - state: centcommember
 
 - type: entity
   id: SpawnPointCentComOperator
@@ -44,9 +45,10 @@
   - type: SpawnPoint
     job_id: CentComOperator
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
-      - state: centcom
+      - state: centcomoperator
 
 - type: entity
   id: SpawnPointMagistrat
@@ -56,9 +58,10 @@
   - type: SpawnPoint
     job_id: Magistrat
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
-      - state: lawyer
+      - state: magistrat
 
 - type: entity
   id: SpawnPointSeniorEngineer
@@ -68,6 +71,7 @@
   - type: SpawnPoint
     job_id: SeniorEngineer
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: seniorengineer
@@ -80,6 +84,7 @@
   - type: SpawnPoint
     job_id: SeniorPhysician
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: seniorphysician
@@ -104,6 +109,7 @@
   - type: SpawnPoint
     job_id: SeniorOfficer
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: seniorofficer
@@ -116,9 +122,10 @@
   - type: SpawnPoint
     job_id: SeniorSalvage
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
-      - state: salvagespecialist
+      - state: seniorsalvage
 
 - type: entity
   id: SpawnPointMiner
@@ -128,6 +135,7 @@
   - type: SpawnPoint
     job_id: Miner
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: miner

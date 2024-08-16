@@ -6,6 +6,7 @@
   - type: SpawnPoint
     job_id: IAA
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
       - state: lawyer
@@ -18,6 +19,7 @@
   - type: SpawnPoint
     job_id: Pilot
   - type: Sprite
+    sprite: Genesis/Markers/jobs.rsi
     layers:
       - state: green
-      - state: seniorofficer
+      - state: pilot

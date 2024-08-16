@@ -120,6 +120,45 @@
     },
     {
       "name": "hop"
+    },
+    {
+      "name": "blueshield_helmet"
+    },
+    {
+      "name": "blueshield3"
+    },
+    {
+      "name": "cargo_tech"
+    },
+    {
+      "name": "centcommember"
+    },
+    {
+      "name": "centcomoperator"
+    },
+    {
+      "name": "hos2"
+    },
+    {
+      "name": "magistrat"
+    },
+    {
+      "name": "miner"
+    },
+    {
+      "name": "seniorengineer"
+    },
+    {
+      "name": "seniorofficer"
+    },
+    {
+      "name": "seniorphysician"
+    },
+    {
+      "name": "seniorsalvage"
+    },
+    {
+      "name": "atmospherics"
     }
   ]
 }
