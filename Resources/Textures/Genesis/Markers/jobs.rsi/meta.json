@@ -159,6 +159,9 @@
     },
     {
       "name": "atmospherics"
+    },
+    {
+      "name": "pilot"
     }
   ]
 }
