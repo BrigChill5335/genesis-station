@@ -44,6 +44,9 @@ namespace Content.IntegrationTests.Tests
 
         private static readonly string[] GameMaps =
         {
+         //Genesis-Start
+            "CentCommGenesis"
+         //Genesis-End
             "Dev",
             "TestTeg",
             "Fland",
