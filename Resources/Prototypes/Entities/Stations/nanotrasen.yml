@@ -33,6 +33,9 @@
   id: NanotrasenCentralCommand
   parent:
     - BaseStation
+    - BaseStationCargo
+    - BaseStationShuttles
+    - BaseStationCentcomm
     - BaseStationAlertLevels
     - BaseStationNanotrasen
   noSpawn: true
