@@ -4,7 +4,6 @@
   icon: { sprite: /Textures/Genesis/Objects/Materials/materials.rsi, state: alienplate }
   spawn: MaterialXenoScale1
   maxCount: 10
-  itemSize: 6
 
 - type: stack
   id: DragonSinew
@@ -12,4 +11,3 @@
   icon: { sprite: /Textures/Genesis/Objects/Materials/materials.rsi, state: dragonsinew }
   spawn: MaterialDragonSinew1
   maxCount: 10
-  itemSize: 6
