@@ -41,3 +41,17 @@
     Telecrystal: 8
   categories:
   - UplinkAmmo
+
+- type: listing
+  id: uplinkMinerSyndie
+  name: uplink-syndie-miner-armor-name
+  description: uplink-syndie-miner-armor-desc
+  productEntity: ClothingOuterArmorMinerSyndie
+  cost:
+    Telecrystal: 6
+  categories:
+  - UplinkJob
+  conditions:
+  - !type:BuyerJobCondition
+    whitelist:
+    - Miner

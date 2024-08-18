@@ -54,6 +54,33 @@
     },
     {
       "name": "welded"
+    },
+    {
+      "name": "shaftminer_door"
+    },
+    {
+      "name": "shaftminer_open"
+    },
+    {
+      "name": "blueshieldold"
+    },
+    {
+      "name": "blueshieldold_door"
+    },
+    {
+      "name": "blueshieldold_open"
+    },
+    {
+      "name": "comsalvage"
+    },
+    {
+      "name": "comsalvage_door"
+    },
+    {
+      "name": "comsalvage_open"
+    },
+    {
+      "name": "shaftminer"
     }
   ]
 }

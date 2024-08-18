@@ -45,3 +45,35 @@
     stateDoorClosed: ccc_door
   - type: AccessReader
     access: [["CentralCommand"]]
+
+- type: entity
+  id: LockerSeniorSalvage
+  parent: LockerBase
+  name: salvage specialist's equipment
+  description: Nevermind the pickaxe.
+  components:
+  - type: Sprite
+    sprite: Genesis/Structures/Storage/closet.rsi
+  - type: Appearance
+  - type: EntityStorageVisuals
+    stateBaseClosed: comsalvage
+    stateDoorOpen: comsalvage_open
+    stateDoorClosed: comsalvage_door
+  - type: AccessReader
+    access: [["Quartermaster"]]
+
+- type: entity
+  id: LockerMiner
+  parent: LockerBase
+  name: salvage specialist's equipment
+  description: Nevermind the pickaxe.
+  components:
+  - type: Sprite
+    sprite: Genesis/Structures/Storage/closet.rsi
+  - type: Appearance
+  - type: EntityStorageVisuals
+    stateBaseClosed: shaftminer
+    stateDoorOpen: shaftminer_open
+    stateDoorClosed: shaftminer_door
+  - type: AccessReader
+    access: [["Salvage"]]
