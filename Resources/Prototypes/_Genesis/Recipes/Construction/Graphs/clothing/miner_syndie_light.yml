@@ -12,7 +12,7 @@
             - tag: SyndieMinerArmor
               name: An syndie Miner armor
               icon:
-                sprite: Debiloid1984/Clothing/OuterClothing/Armor/miner_red.rsi
+                sprite: Genesis/Clothing/OuterClothing/Armor/miner_red.rsi
                 state: icon
               doAfter: 1
     - node: armorsyndieminerlight
