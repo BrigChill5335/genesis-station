@@ -84,7 +84,7 @@
   - type: Sprite
     sprite: Genesis/Objects/Weapons/Guns/Basic/kinetic_accelerator_re.rsi
     layers:
-    - state: icon
+    - state: gun
     - state: empty
       visible: false
       map: [ "empty-icon" ]
