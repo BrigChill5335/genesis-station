@@ -41,7 +41,7 @@
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetHardsuitQM
 
-#Carprate Hardsuit
+#Carporate Hardsuit
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitCentcomCarporate

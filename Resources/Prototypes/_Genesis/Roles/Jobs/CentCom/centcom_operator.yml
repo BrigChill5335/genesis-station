@@ -23,7 +23,6 @@
   equipment:
     shoes: ClothingShoesBootsCombatFilled
     eyes: ClothingEyesGlassesSunglasses
-    gloves: ClothingHandsGlovesColorBlack
     id: CentcomPDA
     ears: ClothingHeadsetCentCom
     belt: WeaponPistolN1984

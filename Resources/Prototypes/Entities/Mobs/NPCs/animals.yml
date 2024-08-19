@@ -2278,6 +2278,13 @@
       groups:
         Brute: -0.07
         Burn: -0.07
+  # Genesis-start
+  - type: FootstepModifier
+    footstepSoundCollection:
+      collection: FootstepSpiderLegs
+      params:
+        volume: -10
+  # Genesis-end
 
 - type: entity
   name: tarantula

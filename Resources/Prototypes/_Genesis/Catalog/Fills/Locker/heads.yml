@@ -6,6 +6,8 @@
   - type: StorageFill
     contents:
       - id: MysteryWeaponBox
+      - id: ClothingOuterHardsuitBlueShield
+      - id: ClothingModsuitBackBlueShield
       - id: BoxCardboardTrackImp
       - id: MedkitCombatFilled
       - id: Handcuffs
@@ -19,6 +21,7 @@
       - id: ClothingUniformJumpsuitBlueShieldTurtleneck
       - id: ClothingEyesGlassesSunglassesBlueShield
       - id: ClothingHeadsetAltCommand
+      - id: PrinterDocFlatpack # Corvax-Printer
 
 - type: entity
   id: LockerCentcomConsultantFilled
@@ -36,6 +39,7 @@
       - id: SpeedLoaderMagnum #Rubber
       - id: CigarGoldCase
         prob: 0.25
+      - id: PrinterDocFlatpack # Corvax-Printer
 
 - type: entity
   id: LockerCentcomConsultantFilledHardsuit
@@ -45,6 +49,7 @@
   - type: StorageFill
     contents:
       - id: ClothingOuterHardsuitCentcomCarporate
+      - id: ClothingModsuitBackCorp
       - id: ClothingMaskGasCentcom
       - id: ClothingHeadsetAltCentCom
       #- id: HandheldIntercomMonitor
@@ -55,3 +60,4 @@
       - id: SpeedLoaderMagnum #Rubber
       - id: CigarGoldCase
         prob: 0.25
+      - id: PrinterDocFlatpack # Corvax-Printer
