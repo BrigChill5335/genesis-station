@@ -31,6 +31,7 @@ namespace Content.IntegrationTests.Tests
         {
             // Genesis-Start
             "CentCommGenesis",
+            "GenesisCluster",
             // Genesis-End
             "CentComm",
             "Dart",
