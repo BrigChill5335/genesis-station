@@ -3,7 +3,7 @@ using Content.Shared.Humanoid;
 using Robust.Shared.Player;
 using Robust.Shared.Utility;
 
-namespace Content.Shared.Preferences.Loadouts.Effects;
+namespace Content.Shared._Genesis.Preferences.Loadouts.Effects;
 
 public sealed partial class SexLoadoutEffect : LoadoutEffect
 {
