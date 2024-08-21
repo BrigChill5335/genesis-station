@@ -641,7 +641,7 @@
 #ERT Engineer Hardsuit
 - type: entity
   parent: ClothingHeadHelmetHardsuitSyndie
-  id: ClothingHeadHelmetHardsuitERTEngineer
+  id: ClothingHeadHelmetHardsuitERTEngineerBravo
   name: ERT engineer hardsuit helmet
   description: A special hardsuit helmet worn by members of an emergency response team.
   components:
@@ -662,7 +662,7 @@
 #ERT Medical Hardsuit
 - type: entity
   parent: ClothingHeadHelmetHardsuitSyndieElite
-  id: ClothingHeadHelmetHardsuitERTMedical
+  id: ClothingHeadHelmetHardsuitERTMedicalBravo
   name: ERT medic hardsuit helmet
   description: A special hardsuit helmet worn by members of an emergency response team.
   components:
@@ -676,7 +676,7 @@
 #ERT Security Hardsuit
 - type: entity
   parent: ClothingHeadHelmetHardsuitSyndie
-  id: ClothingHeadHelmetHardsuitERTSecurity
+  id: ClothingHeadHelmetHardsuitERTSecurityBravo
   name: ERT security hardsuit helmet
   description: A special hardsuit helmet worn by members of an emergency response team.
   components:
@@ -697,7 +697,7 @@
 #ERT Janitor Hardsuit
 - type: entity
   parent: ClothingHeadHelmetHardsuitSyndie
-  id: ClothingHeadHelmetHardsuitERTJanitor
+  id: ClothingHeadHelmetHardsuitERTJanitorBravo
   name: ERT janitor hardsuit helmet
   description: A special hardsuit helmet worn by members of an emergency response team.
   components:
@@ -754,7 +754,7 @@
 #ERT Engineer Hardsuit
 - type: entity
   parent: ClothingHeadHelmetHardsuitSyndie
-  id: ClothingHeadHelmetHardsuitERTEngineer
+  id: ClothingHeadHelmetHardsuitERTEngineerCharlie
   name: ERT engineer hardsuit helmet
   description: A special hardsuit helmet worn by members of an emergency response team.
   components:
@@ -775,7 +775,7 @@
 #ERT Medical Hardsuit
 - type: entity
   parent: ClothingHeadHelmetHardsuitSyndieElite
-  id: ClothingHeadHelmetHardsuitERTMedical
+  id: ClothingHeadHelmetHardsuitERTMedicalCharlie
   name: ERT medic hardsuit helmet
   description: A special hardsuit helmet worn by members of an emergency response team.
   components:
@@ -789,7 +789,7 @@
 #ERT Security Hardsuit
 - type: entity
   parent: ClothingHeadHelmetHardsuitSyndie
-  id: ClothingHeadHelmetHardsuitERTSecurity
+  id: ClothingHeadHelmetHardsuitERTSecurityCharlie
   name: ERT security hardsuit helmet
   description: A special hardsuit helmet worn by members of an emergency response team.
   components:
@@ -810,7 +810,7 @@
 #ERT Janitor Hardsuit
 - type: entity
   parent: ClothingHeadHelmetHardsuitSyndie
-  id: ClothingHeadHelmetHardsuitERTJanitor
+  id: ClothingHeadHelmetHardsuitERTJanitorCharlie
   name: ERT janitor hardsuit helmet
   description: A special hardsuit helmet worn by members of an emergency response team.
   components:
@@ -824,7 +824,7 @@
 #ERT Specialist Hardsuit
 - type: entity
   parent: ClothingHeadHelmetHardsuitSyndieCommander
-  id: ClothingHeadHelmetHardsuitERTSpecialist
+  id: ClothingHeadHelmetHardsuitERTSpecialistCharlie
   name: ERT security hardsuit helmet
   description: A special hardsuit helmet worn by members of an emergency response team.
   components:
