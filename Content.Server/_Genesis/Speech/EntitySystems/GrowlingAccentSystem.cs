@@ -1,9 +1,9 @@
 ﻿using System.Text.RegularExpressions;
-using Content.Server.Corvax.Speech.Components;
+using Content.Server._Genesis.Speech.Components;
 using Content.Server.Speech;
 using Robust.Shared.Random;
 
-namespace Content.Server.Corvax.Speech.EntitySystems;
+namespace Content.Server._Genesis.Speech.EntitySystems;
 
 public sealed class GrowlingAccentSystem : EntitySystem
 {
