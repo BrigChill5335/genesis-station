@@ -13,9 +13,6 @@ public sealed partial class VoiceMaskerComponent : Component
     public ProtoId<SpeechVerbPrototype>? LastSpeechVerb;
 
     [DataField]
-    public string? LastSetVoice; // Genesis-TTS
-
-    [DataField]
     public EntProtoId Action = "ActionChangeVoiceMask";
 
     [DataField]
