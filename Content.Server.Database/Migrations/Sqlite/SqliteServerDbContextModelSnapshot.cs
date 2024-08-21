@@ -808,13 +808,6 @@ namespace Content.Server.Database.Migrations.Sqlite
                         .HasColumnType("TEXT")
                         .HasColumnName("species");
 
-                    // Genesis-TTS-Start
-                    b.Property<string>("Voice")
-                        .IsRequired()
-                        .HasColumnType("TEXT")
-                        .HasColumnName("voice");
-                    // Genesis-TTS-End
-
                     b.HasKey("Id")
                         .HasName("PK_profile");
 
