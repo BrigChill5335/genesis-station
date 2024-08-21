@@ -5,7 +5,6 @@ using Content.Shared.Decals;
 using Content.Shared.Examine;
 using Content.Shared.Humanoid.Markings;
 using Content.Shared.Humanoid.Prototypes;
-using Content.Shared._Genesis.TTS;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Preferences;
 using Robust.Shared;
@@ -40,15 +39,6 @@ public abstract class SharedHumanoidAppearanceSystem : EntitySystem
 
     [ValidatePrototypeId<SpeciesPrototype>]
     public const string DefaultSpecies = "Human";
-    // Genesis-TTS-Start
-    public const string DefaultVoice = "Garithos";
-    public static readonly Dictionary<Sex, string> DefaultSexVoice = new()
-    {
-        {Sex.Male, "Garithos"},
-        {Sex.Female, "Maiev"},
-        {Sex.Unsexed, "Myron"},
-    };
-    // Genesis-TTS-End
 
     public override void Initialize()
     {
