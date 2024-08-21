@@ -1,6 +1,5 @@
 using System.IO;
 using System.Linq;
-using Content._Genesis.Interfaces.Shared;
 using Content.Shared.CCVar;
 using Content.Shared.Decals;
 using Content.Shared.Examine;
