@@ -1035,9 +1035,9 @@
   id: ERTJanitorCharlie
   name: job-name-ertjanitor
   description: job-description-ertjanitor
-  playTimeTracker: JobERTJanitorBravo
+  playTimeTracker: JobERTJanitorCharlie
   setPreference: false
-  startingGear: ERTJanitorBravoGear
+  startingGear: ERTJanitorCharlieGear
   icon: "JobIconNanotrasen"
   supervisors: job-supervisors-centcom
   canBeAntag: false
