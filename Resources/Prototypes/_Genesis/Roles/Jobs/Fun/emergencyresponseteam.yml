@@ -120,7 +120,7 @@
   id: ERTSecurityGamma
   name: job-name-ertsecurity
   description: job-description-ertsecurity
-  playTimeTracker: JobERTSecurityAlpha
+  playTimeTracker: JobERTSecurityGamma
   setPreference: false
   startingGear: ERTSecurityAlphaGear
   icon: "JobIconNanotrasen"
@@ -478,7 +478,7 @@
     mask: ClothingMaskGasERT
     eyes: ClothingEyesHudMedical
     gloves: ClothingHandsGlovesNitrile
-    outerClothing: ClothingOuterHardsuitERTMedicalAlpha
+    outerClothing: ClothingOuterHardsuitERTMedicalDelta
     suitstorage: AirTankFilled
     id: ERTMedicPDA
     ears: ClothingHeadsetAltCentCom
@@ -518,7 +518,7 @@
     shoes: ClothingShoesBootsMag
     mask: ClothingMaskGasERT
     gloves: ClothingHandsGlovesColorPurple
-    outerClothing: ClothingOuterHardsuitERTJanitorAlpha
+    outerClothing: ClothingOuterHardsuitERTJanitorDelta
     suitstorage: AirTankFilled
     id: ERTJanitorPDA
     ears: ClothingHeadsetAltCentCom
