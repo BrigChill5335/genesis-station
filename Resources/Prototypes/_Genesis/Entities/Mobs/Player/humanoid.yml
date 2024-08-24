@@ -249,7 +249,7 @@
 ## ERT Engineer
 
 - type: entity
-  id: RandomHumanoidSpawnerERTEngineerGamma
+  id: RandomHumanoidSpawnerERTEngineerDelta
   parent: RandomHumanoidSpawnerERTLeader
   name: ERT engineer
   suffix: ERTRole, Delta
