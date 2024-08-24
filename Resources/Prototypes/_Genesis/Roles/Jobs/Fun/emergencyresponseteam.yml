@@ -122,7 +122,7 @@
   description: job-description-ertsecurity
   playTimeTracker: JobERTSecurityGamma
   setPreference: false
-  startingGear: ERTSecurityAlphaGear
+  startingGear: ERTSecurityGammaGear
   icon: "JobIconNanotrasen"
   supervisors: job-supervisors-centcom
   canBeAntag: false
@@ -132,7 +132,7 @@
   - CentralCommand
 
 - type: startingGear
-  id: ERTSecurityAlphaGear
+  id: ERTSecurityGammaGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitERTSecurity
     back: ClothingBackpackERTSecurity
