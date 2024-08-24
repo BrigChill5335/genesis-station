@@ -319,7 +319,7 @@
 ## ERT Medic
 
 - type: entity
-  id: RandomHumanoidSpawnerERTMedicalGamma
+  id: RandomHumanoidSpawnerERTMedicalDelta
   parent: RandomHumanoidSpawnerERTLeader
   name: ERT medic
   suffix: ERTRole, Delta
