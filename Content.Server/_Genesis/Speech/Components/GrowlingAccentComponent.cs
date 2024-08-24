@@ -1,4 +1,4 @@
-namespace Content.Server.Corvax.Speech.Components;
+namespace Content.Server._Genesis.Speech.Components;
 
 /// <summary>
 ///     Rrrr!
