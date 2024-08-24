@@ -8,7 +8,7 @@ Space Station 14 это ремейк SS13, который работает на 
 
 ## Ссылки
 
-[Сайт игры](https://spacestation14.io/) | [Workbench Discord](https://discord.gg/Dxqz5gy) | [BrigChill3000 Discord](https://discord.gg/5hktPQ5sdG) | [Бриг Discord](https://discord.gg/UEQDBC2TEj) | [Workbench Revolt](https://rvlt.gg/wcYASVKF) | [Steam игры](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Скачать лаунчер](https://spacestation14.io/about/nightlies/) | [GitLab](https://gitlab.workbench.network/Workbench-Team/space-station-14) | [GitHub](https://github.com/Workbench-Team/space-station-14))
+[Сайт игры](https://spacestation14.io/) | [Workbench Discord](https://discord.gg/Dxqz5gy) | [BrigChill3000 Discord](https://discord.gg/5hktPQ5sdG) | [Бриг Discord](https://discord.gg/UEQDBC2TEj) | [Workbench Revolt](https://rvlt.gg/wcYASVKF) | [Steam игры](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Скачать лаунчер](https://spacestation14.io/about/nightlies/) | [GitLab](https://gitlab.workbench.network/Workbench-Team/space-station-14) | [GitHub](https://github.com/Workbench-Team/space-station-14)
 
 ## Документация
 
