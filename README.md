@@ -1,5 +1,3 @@
-<h1 align="center"> [GitLab](https://gitlab.workbench.network/Workbench-Team/space-station-14) | [GitHub](https://github.com/Workbench-Team/space-station-14) </h1>
-
 <p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg" /></p>
 
 Space Station 14 это ремейк SS13, который работает на собственном движке [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), написанном на C#.
@@ -10,7 +8,7 @@ Space Station 14 это ремейк SS13, который работает на 
 
 ## Ссылки
 
-[Сайт игры](https://spacestation14.io/) | [Workbench Discord](https://discord.gg/Dxqz5gy) | [Workbench Revolt](https://rvlt.gg/wcYASVKF) | [Steam игры](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Скачать лаунчер](https://spacestation14.io/about/nightlies/)
+[Сайт игры](https://spacestation14.io/) | [Workbench Discord](https://discord.gg/Dxqz5gy) | [BrigChill3000 Discord](https://discord.gg/5hktPQ5sdG) | [Бриг Discord](https://discord.gg/UEQDBC2TEj) | [Workbench Revolt](https://rvlt.gg/wcYASVKF) | [Steam игры](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Скачать лаунчер](https://spacestation14.io/about/nightlies/) | [GitLab](https://gitlab.workbench.network/Workbench-Team/space-station-14) | [GitHub](https://github.com/Workbench-Team/space-station-14)
 
 ## Документация
 
